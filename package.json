@@ -1,7 +1,7 @@
 {
-  "name": "@techstark/opencv-js",
-  "version": "4.6.0-release.1",
-  "description": "OpenCV JavaScript version for node.js or browser",
+  "name": "@osolliec/opencv",
+  "version": "0.0.1",
+  "description": "test package",
   "main": "dist/opencv.js",
   "types": "dist/types/index.d.ts",
   "files": [
@@ -10,7 +10,7 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TechStark/opencv-js.git"
+    "url": "git+https://github.com/osolliec/opencv-js.git"
   },
   "keywords": [
     "opencv",
@@ -20,9 +20,9 @@
   "author": "Wilson",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/TechStark/opencv-js/issues"
+    "url": "https://github.com/osolliec/opencv-js/issues"
   },
-  "homepage": "https://github.com/TechStark/opencv-js#readme",
+  "homepage": "https://github.com/osolliec/opencv-js#readme",
   "dependencies": {
     "mirada": "^0.0.15"
   }
