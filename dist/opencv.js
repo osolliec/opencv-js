@@ -43,7 +43,7 @@ else if (typeof exports === 'object')
   exports["cv"] = cv;
 
   if (typeof Module === 'undefined')
-    Module = {};
+   var Module = {};
   return cv(Module);
 }));
         

@@ -1,6 +1,6 @@
 {
   "name": "@osolliec/opencv",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "test package",
   "main": "dist/opencv.js",
   "types": "dist/types/index.d.ts",
